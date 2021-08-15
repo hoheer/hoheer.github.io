@@ -1,4 +1,4 @@
-# Devfolio
+# DATA ENGINEER
 
 ![Preview](https://user-images.githubusercontent.com/9112801/96329524-c8906600-101b-11eb-8fd8-4d45e7f0cd1b.jpg)
 
@@ -14,8 +14,6 @@ Some of the features include:
 - Mobile Friendly
 - Extend and Customize as Needed
 - Blazing Fast 🙄
-
-**[Need help with the template or have suggestions? Reach out on Twitter anytime!](https://twitter.com/rfitzio)**
 
 ## D
 

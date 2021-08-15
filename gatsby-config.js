@@ -21,7 +21,7 @@ module.exports = {
       {
         name: 's-dot 기상정보 시각화',
         description:
-          'r 시각화 패키지들을 활용한 온습도, 미세먼지 시각화 및 폭염, 건조주의보 탐색
+          'r 시각화 패키지들을 활용한 온습도, 미세먼지 시각화 및 폭염, 건조주의보 탐색',
         link: 'https://github.com/hoheer/weatherINFO_VIisualize',
       },
       {

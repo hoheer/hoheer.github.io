@@ -9,26 +9,26 @@ module.exports = {
     // Description that goes under your name in main bio
     description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    //author: `@rfitzio`,
     // Optional: Github account URL
     github: `https://github.com/hoheer`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    //linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `데이터 엔지니어를 향해 헤엄치는 이시연 입니다.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: '포트폴리오',
+        name: 's-dot 기상정보 시각화',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'r 시각화 패키지들을 활용한 온습도, 미세먼지 시각화 및 폭염, 건조주의보 탐색
+        link: 'https://github.com/hoheer/weatherINFO_VIisualize',
       },
       {
-        name: 'ChromeExtensionKit',
+        name: 'aws - springboot 활용',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
+          'aws - springboot 를 활용한 웹서비스 연습중 (트위치 욕설 필터링 챗봇 서비스 기획중)',
+        link: 'https://github.com/hoheer/springboot-webservice',
       },
       {
         name: 'Another Cool Project',

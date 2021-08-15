@@ -11,7 +11,7 @@ module.exports = {
     // Optional: Twitter account handle
     author: `@rfitzio`,
     // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
+    github: `https://github.com/hoheer`,
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
     // Content of the About Me section
@@ -19,7 +19,7 @@ module.exports = {
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: '포트폴리오',
         description:
           'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
         link: 'https://github.com/RyanFitzgerald/devfolio',

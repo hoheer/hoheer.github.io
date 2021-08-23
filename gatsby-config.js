@@ -41,7 +41,7 @@ module.exports = {
     experience: [
       {
         name: '서울시 도시데이터 팀',
-        description: '지피지기소프트 인턴\njun 2021 - Present\n주요 업무: 도시데이터 활용 분석 리포트 작성 인포그래픽 제작 DBMS 및 시스템 장애 처리 데이터 관련 민원업무 처리',
+        description: '지피지기소프트 인턴 \n jun 2021 - Present \n 주요 업무: 도시데이터 활용 분석 리포트 작성 인포그래픽 제작 DBMS 및 시스템 장애 처리 데이터 관련 민원업무 처리',
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {

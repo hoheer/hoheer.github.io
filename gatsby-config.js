@@ -22,7 +22,7 @@ module.exports = {
         name: 's-dot 기상정보 시각화',
         description:
           '기간: 2021.07 ~ 2021.08, 맡은 역할: 시각화 코드 작성',  
-          'r 시각화 패키지들을 활용한 온습도, 미세먼지 시각화 및 폭염, 건조주의보 탐색',
+          'r 시각화 패키지들을 활용한 온습도 미세먼지 시각화 및 폭염 건조주의보 탐색',
         link: 'https://github.com/hoheer/weatherINFO_VIisualize',
       },
       {
@@ -42,7 +42,7 @@ module.exports = {
     experience: [
       {
         name: '서울시 도시데이터 팀',
-        description: '지피지기소프트 인턴, jun 2021 - Present, 주요 업무: 도시데이터 활용 분석 리포트 작성, 인포그래픽 제작, DBMS 및 시스템 장애 처리, 데이터 관련 민원업무 처리',
+        description: '지피지기소프트 인턴, jun 2021 - Present, 주요 업무: 도시데이터 활용 분석 리포트 작성 인포그래픽 제작 DBMS 및 시스템 장애 처리 데이터 관련 민원업무 처리',
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {

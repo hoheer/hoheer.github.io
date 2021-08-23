@@ -5,7 +5,7 @@ module.exports = {
     // Your Name
     name: 'si yeon lee',
     // Main Site Title
-    title: `siyeon lee | Data Engineer `,
+    title: `이시연| Data Engineer `,
     // Description that goes under your name in main bio
     description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
     // Optional: Twitter account handle
@@ -21,13 +21,13 @@ module.exports = {
       {
         name: 's-dot 기상정보 시각화',
         description:
-          'r 시각화 패키지들을 활용한 온습도 미세먼지 시각화 및 폭염 건조주의보 탐색',
+          '온습도 미세먼지 시각화 및 폭염 건조주의보 탐색',
         link: 'https://github.com/hoheer/weatherINFO_VIisualize',
       },
       {
-        name: 'aws - springboot 활용',
+        name: 'S-DOT - 국가측정망 정확도 비교',
         description:
-          'aws - springboot 를 활용한 웹서비스 연습중 (트위치 욕설 필터링 챗봇 서비스 기획중)',
+          '월별 S-DOT센서의 미세먼지 정확도를 국가측정망을 기준으로 계산',
         link: 'https://github.com/hoheer/springboot-webservice',
       },
       {
@@ -41,11 +41,8 @@ module.exports = {
     experience: [
       {
         name: '서울시 도시데이터 팀',
-        description: `지피지기소프트 인턴 jun 2021 - Present  
-        
-        
-        
-        주요 업무: 도시데이터 활용 분석 리포트 작성 인포그래픽 제작 DBMS 시스템 장애 처리 데이터 관련 민원업무 처리`,
+        description: `지피지기소프트 인턴 jun 2021 - Present       
+        주요 업무: 도시데이터 분석 리포트 작성, 인포그래픽 제작, DBMS 시스템 장애 처리`,
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {

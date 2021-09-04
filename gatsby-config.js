@@ -3,11 +3,11 @@ module.exports = {
     // Site URL for when it goes live
     siteUrl: `https://hoheer.github.io/`,
     // Your Name
-    name: 'si yeon lee',
+    name: 'Si Yeon Lee',
     // Main Site Title
-    title: `이시연| Data Engineer `,
+    title: `이시연|  `,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `개발과 데이터 사이.`,
     // Optional: Twitter account handle
     //author: `@rfitzio`,
     // Optional: Github account URL
@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     //linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
     // Content of the About Me section
-    about: `데이터 엔지니어를 향해 헤엄치는 이시연 입니다.`,
+    //about: `데이터 엔지니어를 향해 헤엄치는 이시연 입니다.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -31,7 +31,7 @@ module.exports = {
         link: 'https://github.com/hoheer/springboot-webservice',
       },
       {
-        name: 'Another Cool Project',
+        name: '서울시 내 녹지, 비녹지간 온도 비교',
         description:
           'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
         link: 'https://github.com/RyanFitzgerald/devfolio',

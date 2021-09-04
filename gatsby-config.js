@@ -19,9 +19,9 @@ module.exports = {
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 's-dot 기상정보 시각화',
+        name: 'SDOT 데이터를 사용한 기상특보(폭염, 건조, 미세먼지)',
         description:
-          '온습도 미세먼지 시각화 및 폭염 건조주의보 탐색',
+          '기상정보 시각화 및 기상특보 구분 ',
         link: 'https://github.com/hoheer/weatherINFO_VIisualize',
       },
       {
@@ -41,9 +41,9 @@ module.exports = {
     experience: [
       {
         name: '서울시 도시데이터 팀',
-        description: `지피지기소프트 인턴 jun 2021 - Present       
-        주요 업무: 도시데이터 분석 리포트 작성, 인포그래픽 제작, DBMS 시스템 장애 처리`,
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        description: `지피지기소프트 인턴 jun 2021 - Present                                                                       
+        주요 업무: 도시데이터 활용 분석 과제 진행, 데이터 인포그래픽 제작, DBMS 시스템 장애 처리`,
+        link: 'https://smart.seoul.go.kr/board/41/1243/board_view.do',
       },
       {
         name: 'Globex Corp',
@@ -83,12 +83,12 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        path: `${__dirname}/content/blog`,
-        name: `blog`,
-      },
+//     {
+//       resolve: `gatsby-source-filesystem`,
+//       options: {
+//         path: `${__dirname}/content/blog`,
+//         name: `blog`,
+//       },
     },
     {
       resolve: `gatsby-transformer-remark`,

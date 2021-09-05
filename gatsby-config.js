@@ -33,8 +33,8 @@ module.exports = {
       {
         name: '서울시 내 녹지, 비녹지간 온도 비교',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          '녹지에선 도심에 비해 얼마나 낮은 기온을 유지하는지',
+        link: 'https://github.com/hoheer/-SDOT_ACC/blob/main/%EC%84%9C%EC%9A%B8%EB%85%B9%EC%A7%80%EC%99%80%20%EB%8F%84%EC%8B%AC%EA%B0%84%20%EC%98%A8%EB%8F%84%EB%B9%84%EA%B5%90/green_area.ipynb',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.

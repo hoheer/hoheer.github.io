@@ -46,8 +46,8 @@ module.exports = {
         link: 'https://smart.seoul.go.kr/board/41/1243/board_view.do',
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
+        name: '상명대학교 연구실',
+        description: 'December 2017 - February 2020',
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
       {

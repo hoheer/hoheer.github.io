@@ -50,27 +50,22 @@ module.exports = {
         description: 'December 2017 - February 2020',
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
-      {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
     ],
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'Java, Python, R, C, ELK, Android Studio',
       },
       {
         name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        description: 'MySQL',
       },
       {
         name: 'Other',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Docker, Amazon Web Services (AWS), CI / CD (a Little)',
       },
     ],
   },

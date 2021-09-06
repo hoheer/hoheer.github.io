@@ -28,7 +28,7 @@ module.exports = {
         name: 'S-DOT - 국가측정망 정확도 비교',
         description:
           '월별 S-DOT센서의 미세먼지 정확도를 국가측정망을 기준으로 계산',
-        link: 'https://github.com/hoheer/springboot-webservice',
+        link: 'https://github.com/hoheer/-SDOT_ACC/blob/main/SDOT_ACC.ipynb',
       },
       {
         name: '서울시 내 녹지, 비녹지간 온도 비교',

@@ -7,7 +7,7 @@ module.exports = {
     // Main Site Title
     title: `이시연|  `,
     // Description that goes under your name in main bio
-    description: `개발과 데이터 사이.`,
+    description: `개발과 데이터 사이.(프로젝트 클릭 시 GITHUB으로 이동됩니다)`,
     // Optional: Twitter account handle
     //author: `@rfitzio`,
     // Optional: Github account URL
@@ -48,7 +48,7 @@ module.exports = {
       {
         name: '상명대학교 연구실',
         description: 'December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        //link: 'https://github.com/RyanFitzgerald/devfolio',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.

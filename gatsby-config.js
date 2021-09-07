@@ -47,8 +47,8 @@ module.exports = {
       },
       {
         name: '상명대학교 연구실',
-        description: 'December 2017 - February 2020',
-        //link: 'https://github.com/RyanFitzgerald/devfolio',
+        description: 'December 2020 - February 2021',
+        link: 'https://serene-murdock-f8bb99.netlify.app',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
@@ -65,7 +65,7 @@ module.exports = {
       {
         name: 'Other',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD (a Little)',
+          'Amazon Web Services (AWS), CI / CD (a Little)',
       },
     ],
   },
